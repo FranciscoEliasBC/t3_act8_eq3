@@ -16,7 +16,7 @@ Equivalencias: `id` → número de control, `company.department` → carrera, `r
 
 ## Proyecto desplegado
 
-http://IP_DE_SU_VPS/t3_act8_eq3
+http://216.238.69.86/t3_act8_eq03/
 
 ## Cómo correrlo
 
