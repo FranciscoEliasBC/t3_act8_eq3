@@ -55,3 +55,19 @@ src/
    (Si la carpeta no existe: `ssh usuario@IP "sudo mkdir -p /var/www/html/t3_act8_eq05"`; la ruta exacta depende de tu Nginx.)
 4. Verifica en `http://IP_DE_SU_VPS/t3_act8_eq05/`.
 
+## Flujo en Figma
+
+Login
+
+![Login](img/figma1.png)
+
+
+Inicio
+
+![Inicio](img/figma2.png)
+
+
+Alumnos
+
+![Alumnos](img/figma3.png)
+
